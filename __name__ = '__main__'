@@ -17,16 +17,16 @@ print 'Module_2's Name:{}'.format(__name__)
 
 
 # Explanation
-If we run the file Module_1, then it will print out "This will always be run" and "This is only ruuned by itself" because here __name__ variable is equal to '__main__', which means
-this file is runned by itself so that the main part would be run.
+If we run the file Module_1, then it will print out "This will always be run" and "This is only ruuned by itself" because here __name__ variable is equal to '__main__', 
+which means this file is runned by itself so that the main part would be run.
 If we run the file Module_2, then it will print out  "This will always be run" and "This is only ruuned by itself" and "Module_2's Name: __main__" because if we import Module_1
 then Print "This will always be run" code will be run, but the following main code would not be run because this file is imported, at this time __name__ in Module_1 is no longer
 '__main__', it is file name 'Module_1'. Then only if we use the main() method we can get the content of Module_1. Then in Module_2, if we print the __name__ of it, then we will
 get '__main__' because this file is run by itself, not imported. So if we have main() in Module_2 file, we can run it.
 
 # Result
-Above all, __name__ == '__main__' is used to block some unnecessary code running while importing some other files. If we have one single file to run with no import, then this code
-is meaningless. While if we want to import some other files, we have to put this code in the file that we want to import to prevent some unnecessary codes popping out.
+Above all, __name__ == '__main__' is used to block some unnecessary code running while importing some other files. If we have one single file to run with no import, then 
+this code is meaningless. While if we want to import some other files, we have to put this code in the file that we want to import to prevent some unnecessary codes popping out.
 
 # Copyright: This code is inspired by Youtuber Corey Schafer, Thanks for your help
 Here is the link of video : https://www.youtube.com/watch?v=sugvnHA7ElY
