@@ -1,6 +1,6 @@
 This task is a simple usage of PCA towards a simple dataset wine (public data set). In this simple, our goal is to use pca to reduce the dimensionalities of features and to 
 test the performance of model after PCA dimension reduction. In this task, we can learn how to manually use pca to reduce the dimensionality, how to standardize our data, how
-to draw the plot of eigen vector weight and cumulative eigen vector weight, how to draw the distribution for 2D data, how to use sklearn pca module to automatically finish
+to draw the plot of eigen value weight and cumulative eigen value weight, how to draw the distribution for 2D data, how to use sklearn pca module to automatically finish
 above part, then we use logistic regression to train the model upon the PCA features to test the performance of PCA, we found pretty good accuracy for this test data set, then
 we also can learn how to draw the boundary line of our model in 2D plot. 
 After all, this task is simple, but really helpful and good for beginners to practice.
