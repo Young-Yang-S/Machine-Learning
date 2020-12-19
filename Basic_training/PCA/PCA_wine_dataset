@@ -1,0 +1,19 @@
+This task is a simple usage of PCA towards a simple dataset wine (public data set). In this simple, our goal is to use pca to reduce the dimensionalities of features and to 
+test the performance of model after PCA dimension reduction. In this task, we can learn how to manually use pca to reduce the dimensionality, how to standardize our data, how
+to draw the plot of eigen vector weight and cumulative eigen vector weight, how to draw the distribution for 2D data, how to use sklearn pca module to automatically finish
+above part, then we use logistic regression to train the model upon the PCA features to test the performance of PCA, we found pretty good accuracy for this test data set, then
+we also can learn how to draw the boundary line of our model in 2D plot. 
+After all, this task is simple, but really helpful and good for beginners to practice.
+
+Here is one key note to illustrate:
+When we standardize our data, this is the correct way for us to do: first split the data into training and test data set, then standardize training data set first, and use 
+training dataset mean and std to standardize the test data set rather than using test mean and std to standardize itself. Keep in mind!
+
+Here is an example why we should do this. For example:
+If we have train data [[10],[20],[30]], label [1,1,2] after standarization, we get ([[-1.22474487],[ 0.],[ 1.22474487]]), then we have a model to classify the data at
+threshold 0, then if we have test data [[50],[60],[70]], we still use test data itself mean and std to do the standardization, then we get the same
+([[-1.22474487],[ 0.        ],[ 1.22474487]]). This would be classified wrongly. But if we use training data set mean and std, we rather get
+([[3.67423461],[4.89897949],[6.12372436]]), which are all above 0, so we can classify them all correctly. Thus this is the reason why we should use training data set's
+mean and std to apply to test data set.
+
+Tips: This code is from greedyai company for studying purpose. Thanks for their kind help.
