@@ -1,7 +1,7 @@
 
 This task is to use SVC to classify simple photo recognition. It has two goals, first is to classify different people, the second one is to classify people with or 
 without glasses. Because of the easiness of photos, svm could classify it with accuarcy up to 90% for classification of different people and 99% for classification of with
-or without glasses. It is a easy task and suitable for beginners to have a try. 
+or without glasses. It is an easy task and suitable for beginners to have a try. 
 Data is from sklearn itself, named fetch_olivetti_faces. In this file, we can learn how to print out images neatly，how to recognize data set structure, how to use SVC 
 algorithm, how to split data set, how to use cross validation to train the model, how to use gridsearch to adjuest the hyper parameters and how to count running time.
 
