@@ -1,1 +1,5 @@
+This iris dataset is good data set for beginners. This iris_dataset is used to train the model selection part. In this task, we use xgboost and random forest model and cv method
+to pick up the best model within 10 sub models (5 folds). In this dataset we use mse as the metrics for classification which should not, and actually we haven't adjust the hyper 
+parameters to really find the best model. But after all, this is a good starting point for beginners to have a quick look of model evaluation and selection.
 
+Again this code is from greedyai company for studying purpose, thanks for kind help.
