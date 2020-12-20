@@ -1,0 +1,5 @@
+This practice is a simple but good examples to show how powerful the kernel PCA is. In this file, we have two examples, moon-like and concentric circle samples. We can see 
+from this practice that: traditional PCA can not help to transfer non linear data into linear data after dimension reduction. But proper Kernel PCA could help me to achieve 
+this goal. Thus when we process our data set, we should try to use kernel pca to deal with the problems of non linearity.
+
+# Tip: This example is from greedyai company for studying. Thanks for your kind help.
