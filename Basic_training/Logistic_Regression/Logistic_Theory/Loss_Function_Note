@@ -1,0 +1,3 @@
+This is the note to explain the loss function of logistic regression.
+There are two common forms for LRLF, which depends on the labels we select for response. This may become confused when we read some materials about it. 
+Here is to clearity its form in different situations.
