@@ -1,0 +1,5 @@
+This folder contains one algorithm that are created by Ji Zhu and Trevor Hastie. They introduced the kernel to the LR models which has two main contributions. The first one
+is to output the probability of classifications directly because of using logistic model, whereas the SVM needs to use logisitic function to convert the output of SVM to the 
+probability. And because they use LR model, it is natural to extend it to multi classification task, while SVM needs to use ovr or ovo methods to extend. Secondly, they also 
+introduce import vectors (much smaller size than support vectors) to shorten the learning time. After all, it has advantages on probability output, computational time and 
+mutiple classification task compared with SVM.
