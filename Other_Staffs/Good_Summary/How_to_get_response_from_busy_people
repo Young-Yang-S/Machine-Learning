@@ -2,7 +2,9 @@
   font-size: 100;
 }
 
-The SI Rules
+a.absent {
+  color: #cc0000;
+  The SI Rules
 
 Try to send no more than one email a day. 
 Emails should be 3 sentences or less. Better if you can get the whole email in the subject line. 
@@ -10,3 +12,5 @@ If you need information, ask yes or no questions whenever possible. Never ask a 
 When something is time sensitive, state the action you will take if you don’t get a response by a time you specify. 
 Be as specific as you can while conforming to the length requirements. 
 Bonus: include obvious keywords people can use to search for your email. 
+
+}
