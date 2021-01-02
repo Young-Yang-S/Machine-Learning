@@ -1,5 +1,5 @@
 # How to getting email responses from busy people
-[(https://simplystatistics.org/2011/09/23/getting-email-responses-from-busy-people/)]
+This file is from [simplystats](https://simplystatistics.org/2011/09/23/getting-email-responses-from-busy-people/)
 ## Quick Tricks: The SI Rules
 - Try to send no more than one email a day. 
 - Emails should be 3 sentences or less. Better if you can get the whole email in the subject line. 
