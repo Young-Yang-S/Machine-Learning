@@ -1,0 +1,5 @@
+This material is quoted from [Simplystats](https://simplystatistics.org/2012/01/30/why-in-person-education-isnt-dead-yet-but-a/)
+
+A growing tend in education is to put lectures online, for free. The Kahn Academy, Stanford’s recent AI course, and Gary King’s new quantitative government course at Harvard are three of the more prominent examples. This new pedagogical format is more democratic, free, and helps people learn at their own pace. It has led some, including us here at Simply Statistics, to suggest that the future of graduate education lies in online courses. Or to forecast the end of in-class lectures. 
+
+All this excitement led John Cook to ask, “What do colleges sell?”. The answers he suggested were: (1) real credentials, like a degree, (2) motivation to ensure you did the work, and (3) feedback to tell you how you are doing. As John suggests, online lectures really only target motivated and self-starting learners. For graduate students, this may work (maybe), but for the vast majority of undergrads or high-school students, self-guided learning won’t work due to a lack of motivation. 
