@@ -1,4 +1,4 @@
 ## [The Mathematics of Lego](https://www.wired.com/2012/01/the-mathematics-of-lego/)
-In this article, it points out ont interesting situation: In Mark Changizi and his colleagues' paper, they found that :<br>
+In this article, it points out one interesting situation: In Mark Changizi and his colleagues' paper, they found that :<br>
 1. In every single one of the systems in the wildly interdisciplinary list of the subtitle there was an increase in the number of types of components as the total number of pieces grew. The larger something is, the more types of building blocks it uses.<br>
 2. The number of piece types grows sublinearly: while a larger system uses more piece types, as system becomes larger, they use progressively fewer additional piece types (so larger sets actually use fewer types per piece). This is similar to other sublinear curves, where larger animals use less energy per cell for metabolism or larger cities actually need fewer gas stations per capita. Essentially, larger sets become more efficient, using the same pieces that smaller sets do, but in a more complex and diverse way.
