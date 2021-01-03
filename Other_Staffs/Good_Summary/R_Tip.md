@@ -1,5 +1,6 @@
 ## R Tips for R users
-### Reading large table into R   From[Simplystats](https://simplystatistics.org/2011/10/07/r-workshop-reading-in-large-data-frames/)
+### 1. Reading large table into R   
+From[Simplystats](https://simplystatistics.org/2011/10/07/r-workshop-reading-in-large-data-frames/)<br />
 - Get a roughly estimation of the size of your data 
 Calculation formula : # rows * # columns * 8 bytes / 2^20  (MB unit)
 - Read.table() <br />
