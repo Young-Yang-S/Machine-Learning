@@ -7,3 +7,4 @@
 4. Meeting: https://simplystatistics.org/2011/09/19/meetings/
 5. How to get email from busy person: https://simplystatistics.org/2011/09/23/getting-email-responses-from-busy-people/
 6. Innovation and overconfidence: https://simplystatistics.org/2011/10/03/innovation-and-overconfidence/
+7. DS_Venn_Diagram from Steven Geringer in January 2014,
