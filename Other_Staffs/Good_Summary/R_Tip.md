@@ -2,7 +2,7 @@
 ### Reading large table into R   From[Simplystats](https://simplystatistics.org/2011/10/07/r-workshop-reading-in-large-data-frames/)
 - Get a roughly estimation of the size of your data 
 Calculation formula : # rows * # columns * 8 bytes / 2^20  (MB unit)
-- Read.table() /n
+- Read.table() <br />
 The following options to ‘read.table()’ can affect R’s ability to read large tables:/n
 (1) colClasses/n
 This option takes a vector whose length is equal to the number of columns in the table. Specifying this option instead of using the default can make ‘read.table’ run MUCH faster.
