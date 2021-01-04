@@ -4,7 +4,7 @@ Fisher held strong views on race, insisting on racial differences. (This is too 
 
 He is known as __one of the three principal founders of population genetics__. He outlined __Fisher's principle__, __the Fisherian runaway__ and __sexy son hypothesis theories of sexual selection__. His contributions to __statistics__ include promoting the __method of maximum likelihood__ and deriving the __properties of maximum likelihood estimators__, __fiducial inference__, __the derivation of various sampling distributions__, founding __principles of the design of experiments__, and __much more__.[Wiki](https://en.wikipedia.org/wiki/Ronald_Fisher)<br>
 
-But interestingly authors in [simplystats](https://simplystatistics.org/2012/03/07/r-a-fisher-is-the-most-influential-scientist-ever/) found thant R.A. Fisher, (many of the concepts he developed are so common and are considered so standard)  is never cited/credited. Here are some examples of things he invented along with a conservative number of citations they would have received calculated via Google Scholar*. (From simplystatistics)<br>
+But interestingly authors in [simplystats](https://simplystatistics.org/2012/03/07/r-a-fisher-is-the-most-influential-scientist-ever/) found thant R.A. Fisher, (many of the concepts he developed are so common and are considered so standard)  is never cited/credited. Here are some examples of things he invented along with a conservative number of citations they would have received calculated via Google Scholar*. (From simplystats)<br>
 1. P-values - 3 million citations
 2. Analysis of variance (ANOVA) - 1.57 million citations
 3. Maximum likelihood estimation - 1.54 million citations
