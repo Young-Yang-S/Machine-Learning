@@ -1,4 +1,4 @@
-From [Paul Graham](http://paulgraham.com/schlep.html)
+From [Paul Graham](http://paulgraham.com/schlep.html)<br>
 There are great __startup ideas__ lying around unexploited right __under our noses__. One reason we don't see them is a phenomenon I call schlep blindness. Schlep means a tedious, unpleasant task.
 
 Schleps are not merely inevitable, but pretty much what business consists of. A company is defined by the schleps it will undertake. And schleps should be dealt with the same way you'd deal with a cold swimming pool: __just jump in__. Which is not to say you should seek out unpleasant work per se, but that __you should never shrink from it if it's on the path to something great.__
@@ -18,3 +18,5 @@ In practice the founders grow with the problems. But no one seems able to forese
 Ignorance can't solve everything though. Some ideas so obviously entail alarming schleps that anyone can see them. How do you see ideas like that? The trick I recommend is to take yourself out of the picture. Instead of asking "what problem should I solve?" ask "what problem do I wish someone else would solve for me?" If someone who had to process payments before Stripe had tried asking that, Stripe would have been one of the first things they wished for.
 
 It's too late now to be Stripe, but there's plenty still broken in the world, if you know how to see it.
+
+Above all, schlep blindness is something that is tedious to do or difficult to achieve, then we unconsiously ignore it. But such kind of seemingly tedious task would bring with good result or interesting outcome for us. Like Stripe, like you should have a good body like athletics. We should try to realize its importance and put it into the same level of insightful ideas. 
