@@ -8,3 +8,4 @@
 5. How to get email from busy person: https://simplystatistics.org/2011/09/23/getting-email-responses-from-busy-people/
 6. Innovation and overconfidence: https://simplystatistics.org/2011/10/03/innovation-and-overconfidence/
 7. DS_Venn_Diagram from Steven Geringer in January 2014,
+8. Replicability  and Reproducibility from: https://simplystatistics.org/2012/04/18/replication-psychology-and-big-science/
