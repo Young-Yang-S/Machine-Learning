@@ -1,4 +1,4 @@
-**A/A Testing
+**A/A Testing**
 ***What Is A/A Testing?***
 A/A testing is the tactic of using A/B testing to test two __identical versions__ of a page against each other. Typically, this is done to check that the tool being used to run the experiment is __statistically fair__. In an A/A test, the tool should report no difference in conversions between the control and variation, if the test is implemented correctly.
 
