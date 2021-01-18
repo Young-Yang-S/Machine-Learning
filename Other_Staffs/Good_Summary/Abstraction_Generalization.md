@@ -17,7 +17,3 @@ The term “substantial new contributions” in my definition of a PhD is admitt
 - creating new data analysis pipelines (both abstraction and generalization).
 
 Abstraction and generalization facilitates learning new areas. Knowledge of the abstract core of a discipline makes that knowledge much more portable. This is seen across every discipline. Musicians who know music theory can use their knowledge for any instrument;  computer scientists who understand data structures and algorithms can switch languages easily; electrical engineers who understand signal processing can switch between technologies easily. Abstraction is what allows them to see past the concrete (instrument, syntax, technology) to the essence (music, algorithm, signal).
-
-And statisticians learn statistical and probability theory. However, in statistics, abstraction is not represented only by mathematics and theory. As pointed out by the absolutely unimpeachable source, Simply Statistics, software is exactly an abstraction.
-
-I think abstraction is important and we need to continue publishing those kinds of ideas. However, I think there is one key point that the statistics community has had difficulty grasping, which is that software represents an important form of abstraction, if not the most important form …
