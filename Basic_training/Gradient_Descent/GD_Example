@@ -1,0 +1,30 @@
+import numpy as np
+
+# define function f(x)
+def f(x):
+    return np.power(x, 2)
+
+# define the derivative at x
+def d_f_2(f, x, delta=1e-4):
+    return (f(x+delta) - f(x-delta)) / (2 * delta)
+
+
+# pick up the initial x position, learning rate and max loop for 30 times
+x_init = 10.0
+x = x_init
+learning_rate = 0.1
+max_loop = 50
+
+for i in range(max_loop):
+    d_f_x = d_f_2(f, x)
+    x = x - learning_rate * d_f_x
+    print(x)
+
+print('initial x =', x_init)
+print('arg min f(x) of x =', x)
+print('f(x) =', f(x))
+
+# here we can see x is very close to 0 after 50 times of GB, that means we successfully get the aaccurate x for the minimum f(x)
+
+
+Copyright: Inspired and modified from zxly9892, thanks for help
