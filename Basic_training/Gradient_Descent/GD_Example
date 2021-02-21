@@ -24,7 +24,7 @@ print('initial x =', x_init)
 print('arg min f(x) of x =', x)
 print('f(x) =', f(x))
 
-# here we can see x is very close to 0 after 50 times of GB, that means we successfully get the aaccurate x for the minimum f(x)
+# here we can see x is very close to 0 after 50 times of GD, that means we successfully get the aaccurate x for the minimum f(x)
 
 
 Copyright: Inspired and modified from zxly9892, thanks for help
